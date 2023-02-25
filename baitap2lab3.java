@@ -1,5 +1,4 @@
 public class baitap2lab3 {
-    public static void main(String[] args)
     public baitap2lab3(){       
     }
     public  class vector{
